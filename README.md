@@ -13,6 +13,12 @@ fields, and events with their original descriptions. It is intended for:
 - Generating API completeness reports
 - Serving as a self-contained offline reference without needing the original HTML documentation
 
+## Web
+
+You can convert these XML files into a website. A new `web` directory will be created.
+
+![Web](web.png "Web")
+
 ## Structure
 
 ```
